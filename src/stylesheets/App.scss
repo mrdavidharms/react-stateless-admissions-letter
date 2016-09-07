@@ -1,5 +1,28 @@
 /* YOUR STYLING HERE */
 .letter-background {
+  position: absolute;
   background-color: #E0D2AB;
   margin: 10%
+
+
+}
+.title {
+  font-family: "Comic Sans MS", "Comic Sans", cursive;
+}
+
+.sub-title {
+  font-family: "Comic Sans MS", "Comic Sans", cursive;
+}
+
+
+
+.shield {
+  position: relative;
+  left: 40%;
+  max-width: 150px;
+  max-height: 150px
+}
+
+p {
+  font-family: "Comic Sans MS", "Comic Sans", cursive;
 }
